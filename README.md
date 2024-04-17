@@ -22,6 +22,7 @@ I'm a passionate AI & ML enthusiast with a background in IT industry. I love bui
 
 ## 📫 Connect with Me
 
+- Website(Blog): [https://decodeai.in](https://decodeai.in)
 - LinkedIn: [https://www.linkedin.com/in/manoharpalanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 - GitHub: [https://github.com/send2manoo](https://github.com/send2manoo)
 
