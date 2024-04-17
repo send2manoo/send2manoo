@@ -22,7 +22,7 @@ I'm a passionate AI & ML enthusiast with a background in IT industry. I love bui
 
 ## 📫 Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/manoharpalanisamy]([Your LinkedIn Profile Link](https://www.linkedin.com/in/manoharpalanisamy))
+- LinkedIn: [https://www.linkedin.com/in/manoharpalanisamy](https://www.linkedin.com/in/manoharpalanisamy)
 - GitHub: [https://github.com/send2manoo](https://github.com/send2manoo)
 
 Let's connect and collaborate on exciting AI & ML projects together! 🚀
