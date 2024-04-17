@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate AI & ML enthusiast with a background in [Your Industry/Field]. I love building innovative solutions and exploring the latest technologies in the field of artificial intelligence and machine learning.
+I'm a passionate AI & ML enthusiast with a background in IT industry. I love building innovative solutions and exploring the latest technologies in the field of artificial intelligence and machine learning.
 
 ## 💼 Work Experience
 
@@ -16,13 +16,13 @@ I'm a passionate AI & ML enthusiast with a background in [Your Industry/Field]. 
 
 - 🧠 **Artificial Intelligence**: Deep Learning, NLP, Generative AI
 - 💻 **Programming**: Python, Java, C++
-- 🌐 **Web Development**: HTML/CSS, JavaScript, Flask
+- 🌐 **Web Development**: HTML/CSS, JavaScript, Streamlit
 - ☁️ **Cloud Technologies**: AWS, Azure, Google Cloud
 - 📊 **Data Analysis**: Pandas, NumPy, Matplotlib
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- GitHub: [Your GitHub Profile](Your GitHub Profile Link)
+- LinkedIn: [https://www.linkedin.com/in/manoharpalanisamy]([Your LinkedIn Profile Link](https://www.linkedin.com/in/manoharpalanisamy))
+- GitHub: [https://github.com/send2manoo](https://github.com/send2manoo)
 
 Let's connect and collaborate on exciting AI & ML projects together! 🚀
